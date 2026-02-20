@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MyPartnerAI"
+title:  "MyPartnerAI for Mac"
 author: joopark4
 categories: [ macOS, App, Private ]
 image: assets/images/2026-02-20-my-partner-ai/mypartnerai-thumb.jpg
@@ -30,7 +30,7 @@ GitHub Release의 단일 파일 2GB 용량 제한으로 인해 설치 프로그�
 - 📦 [MyPartnerAI-0.3.0.dmg.partad](https://github.com/joopark4/MyPartnerAI/releases/download/v0.3.0/MyPartnerAI-0.3.0.dmg.partad)
 - 📦 [MyPartnerAI-0.3.0.dmg.partae](https://github.com/joopark4/MyPartnerAI/releases/download/v0.3.0/MyPartnerAI-0.3.0.dmg.partae)
 
-*(💡 추가로, 체크섬 검증을 원하시면 아래의 [sha256 파일](https://github.com/joopark4/MyPartnerAI/releases/download/v0.3.0/MyPartnerAI-0.3.0.dmg.sha256)도 함께 다운로드해 주세요.)*
+*(💡 추가로, 체크섬 검증을 원하시면 [sha256 파일](https://github.com/joopark4/MyPartnerAI/releases/download/v0.3.0/MyPartnerAI-0.3.0.dmg.sha256)도 함께 다운로드해 주세요.)*
 
 ### 2️⃣ 파일 병합 (터미널)
 Mac의 터미널(Terminal) 앱을 열고 다운로드 받은 폴더로 이동한 뒤, 아래 명령어를 입력하여 하나의 구동 가능한 DMG 파일로 합쳐줍니다.
