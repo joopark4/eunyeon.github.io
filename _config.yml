@@ -3,7 +3,7 @@ name: "EunYeon"
 title: "EunYeon"
 description: "My Main Projects and Releases"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: ""
 url: "https://joopark4.github.io"
 google_analytics: ''
