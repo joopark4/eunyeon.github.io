@@ -3,7 +3,7 @@ layout: post
 title:  "MyPartnerAI"
 author: joopark4
 categories: [ macOS, App, Private ]
-image: 
+image: assets/images/mypartnerai-thumb.jpg
 featured: true
 published: true
 ---
