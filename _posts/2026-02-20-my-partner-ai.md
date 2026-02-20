@@ -3,15 +3,13 @@ layout: post
 title:  "MyPartnerAI"
 author: joopark4
 categories: [ macOS, App, Private ]
-image: assets/images/mypartnerai-thumb.jpg
+image: assets/images/2026-02-20-my-partner-ai/mypartnerai-thumb.jpg
 featured: true
 published: true
 ---
 
 ## 💡 프로젝트 소개 (Overview)
-
 **MyPartnerAI**는 VRM 모델을 기반으로 한 나만의 아바타 AI 비서 앱입니다.
-
 - **지원 API:** Gemini, OpenAI, Claude API 지원
 - **로컬 모델:** Ollama 연동을 통한 프라이빗 로컬 모델(On-Device AI) 지원
 - **다국어 소통:** 한국어 및 영어 지원
