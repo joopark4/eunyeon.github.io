@@ -2,7 +2,7 @@
 layout: post
 title: "📱 USB External Camera Streaming for iOS"
 author: joopark4
-categories: [ Projects ]
+categories: [ iOS, App ]
 tags: [ ios, swift, streaming, uvc, youtube ]
 description: "iPad에서 외부 USB 웹캠을 연결하여 고화질 실시간 스트리밍을 지원하는 iOS 앱 프로젝트입니다."
 ---
