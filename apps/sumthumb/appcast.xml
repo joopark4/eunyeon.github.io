@@ -4,6 +4,15 @@
         <title>Sum-Thumb Updates</title>
         <language>ko</language>
         <item>
+            <title>1.3</title>
+            <pubDate>Tue, 24 Feb 2026 21:51:56 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://joopark4.github.io/apps/sumthumb/SumThumb-1.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://joopark4.github.io/apps/sumthumb/SumThumb-1.3.dmg" length="20066733" type="application/octet-stream" sparkle:edSignature="6GGNdI4FGMrfR/pbFo6l0rFmdzN/jhTOqFjVjI8+Gv1QfQRhtSlXkwQtD97v+zWyIJwvtRm+jBRYTmVi2LoEAA=="/>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Tue, 24 Feb 2026 21:47:35 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
