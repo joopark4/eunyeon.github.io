@@ -1,16 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Sum-Thumb Updates</title>
         <language>ko</language>
-        <item>
-            <title>1.2</title>
-            <pubDate>Tue, 24 Feb 2026 21:39:36 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://joopark4.github.io/apps/sumthumb/SumThumb-1.2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://joopark4.github.io/apps/sumthumb/SumThumb-1.2.dmg" length="20066888" type="application/octet-stream" sparkle:edSignature="mIsyBcgEImRo9+3LLg7gj522yN2fQenadThsPWaciXRypHyDrXcWw2XNCM/15Fd0QHpRFffSXh3Q14XNSSF2Aw=="/>
-        </item>
     </channel>
 </rss>
