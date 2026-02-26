@@ -4,6 +4,15 @@
         <title>Sum-Thumb Updates</title>
         <language>ko</language>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Thu, 26 Feb 2026 14:21:24 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://joopark4.github.io/apps/sumthumb/SumThumb-1.5.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://joopark4.github.io/apps/sumthumb/SumThumb-1.5.1.dmg" length="17512521" type="application/octet-stream" sparkle:edSignature="N4V5zEX0UNcQ6zOp77hDFjhJkn2amGspBF3YTtuWlsQaUW9A1wGzlKk41QA95P/6F6s8DrgXyj8sHdCvcyGkCQ=="/>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Tue, 24 Feb 2026 23:53:51 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -20,15 +29,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://joopark4.github.io/apps/sumthumb/SumThumb-1.3.md</sparkle:releaseNotesLink>
             <enclosure url="https://joopark4.github.io/apps/sumthumb/SumThumb-1.3.dmg" length="20066733" type="application/octet-stream" sparkle:edSignature="6GGNdI4FGMrfR/pbFo6l0rFmdzN/jhTOqFjVjI8+Gv1QfQRhtSlXkwQtD97v+zWyIJwvtRm+jBRYTmVi2LoEAA=="/>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Tue, 24 Feb 2026 21:47:35 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://joopark4.github.io/apps/sumthumb/SumThumb-1.2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://joopark4.github.io/apps/sumthumb/SumThumb-1.2.dmg" length="20066846" type="application/octet-stream" sparkle:edSignature="pFWD43DOZt8rxtG4SKE8RwXSeiKGhftfHGPsu2UzmEcx74ylMgB37/CXG1AO5CterYVlru7Iw8mywj1zaf26Aw=="/>
         </item>
     </channel>
 </rss>
