@@ -1,15 +1,15 @@
 {
-  "version": "0.4.0",
-  "notes": "첫 설치 TTS/STT 즉시 작동, 멀티 모니터 대응, 빌드 안정화",
-  "pub_date": "2026-02-26T08:20:05Z",
+  "version": "v0.4.0",
+  "notes": "AMA v0.4.0 release",
+  "pub_date": "2026-02-26T23:25:09.222Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQlBLbVdqNVUyR0ZlV3ltbXk5K055bkJEN01BSmt3ck1YK293dWRwQmluZ2J2U2s4clhmUElnRjA5RjZoQlA0SGFPc1FXdWVRdFZsdWpZSHZ2T1E5MjVXNThzTXJZL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDkzNjE2CWZpbGU6QU1BLmFwcC50YXIuZ3oKU2VDWnJNVmZsNjcrVFV1RHQ1WFNjZDJhM0NySHhTNHNlejE5UVZ0eFZIcWNOTWRNMG85VWlheGhIck52VGhlVnhCb2IxOUtsWnZHU0d0ZXljTW5RQlE9PQo=",
-      "url": "https://joopark4.github.io/apps/ama/AMA_0.4.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRemFFOGVzUGxwWjJnbnVYRzNMUUdzNUZzTHdVaWJnU3oySHVpcnMxaTRuOGpvZVRpc3c1dDlsa1YwSWMvdHV3cTRDWTcrV0hRajFMUncxMGV2azBXQUFveVNMZjBLTkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTQ4MjkyCWZpbGU6QU1BLmFwcC50YXIuZ3oKWUhESkErWUgyN0NlWTR0K1pvc3A5UWdheFFZOUIwMTdNamVtTnVDYnMvYmpmWHZPVTY1THpzQmtHcWlWenkyTEdMTXNoK1pvZG1QQ05YQ0xWZmdkQ1E9PQo=",
+      "url": "https://joopark4.github.io/apps/ama/AMA.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQlBLbVdqNVUyR0ZlV3ltbXk5K055bkJEN01BSmt3ck1YK293dWRwQmluZ2J2U2s4clhmUElnRjA5RjZoQlA0SGFPc1FXdWVRdFZsdWpZSHZ2T1E5MjVXNThzTXJZL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMDkzNjE2CWZpbGU6QU1BLmFwcC50YXIuZ3oKU2VDWnJNVmZsNjcrVFV1RHQ1WFNjZDJhM0NySHhTNHNlejE5UVZ0eFZIcWNOTWRNMG85VWlheGhIck52VGhlVnhCb2IxOUtsWnZHU0d0ZXljTW5RQlE9PQo=",
-      "url": "https://joopark4.github.io/apps/ama/AMA_0.4.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRemFFOGVzUGxwWjJnbnVYRzNMUUdzNUZzTHdVaWJnU3oySHVpcnMxaTRuOGpvZVRpc3c1dDlsa1YwSWMvdHV3cTRDWTcrV0hRajFMUncxMGV2azBXQUFveVNMZjBLTkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTQ4MjkyCWZpbGU6QU1BLmFwcC50YXIuZ3oKWUhESkErWUgyN0NlWTR0K1pvc3A5UWdheFFZOUIwMTdNamVtTnVDYnMvYmpmWHZPVTY1THpzQmtHcWlWenkyTEdMTXNoK1pvZG1QQ05YQ0xWZmdkQ1E9PQo=",
+      "url": "https://joopark4.github.io/apps/ama/AMA.app.tar.gz"
     }
   }
 }
