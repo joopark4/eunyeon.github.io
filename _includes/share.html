@@ -2,10 +2,16 @@
     <p>
         Share
     </p>
+    {% capture share_tags %}{% for tag in page.categories %}#{{tag | remove: " "}} {% endfor %}{% for tag in page.tags
+    %}#{{tag | remove: " "}} {% endfor %}{% endcapture %}
+    {% assign share_tags = share_tags | strip %}
+    {% capture share_text %}{{ page.title | escape }} {{ share_tags }}{% endcapture %}
+    {% assign share_text_encoded = share_text | uri_escape %}
+    {% assign share_url = page.url | absolute_url | uri_escape %}
     <ul>
         <li class="ml-1 mr-1">
             <a target="_blank"
-                href="https://www.threads.net/intent/post?text={{ page.title }} - {{ page.url | absolute_url }}"
+                href="https://www.threads.net/intent/post?text={{ share_text_encoded }}%0A{{ share_url }}"
                 onclick="window.open(this.href, 'threads-share', 'width=550,height=435');return false;"
                 title="Share on Threads">
                 <i class="fas fa-at"></i>
@@ -13,8 +19,7 @@
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank"
-                href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}"
+            <a target="_blank" href="https://twitter.com/intent/tweet?text={{ share_text_encoded }}&url={{ share_url }}"
                 onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"
                 title="Share on X">
                 <strong style="font-family: sans-serif; font-size: 14px;">X</strong>
@@ -22,15 +27,15 @@
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://www.instagram.com/"
-                onclick="window.open(this.href, 'instagram-share', 'width=550,height=435');return false;"
-                title="Share on Instagram">
+            <a href="javascript:void(0);"
+                onclick="var textToCopy = decodeURIComponent('{{ page.title | uri_escape }}%0A{{ page.url | absolute_url | uri_escape }}%0A%0A{{ share_tags | uri_escape }}'); navigator.clipboard.writeText(textToCopy).then(function() { alert('인스타그램용 텍스트(제목, 링크, 해시태그)가 복사되었습니다!\\n게시물 작성 시 붙여넣기 해주세요.'); window.open('https://www.instagram.com/', '_blank'); }).catch(function() { window.open('https://www.instagram.com/', '_blank'); });"
+                title="Copy text & Open Instagram">
                 <i class="fab fa-instagram"></i>
             </a>
         </li>
 
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}"
+            <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}"
                 onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;"
                 title="Share on Facebook">
                 <i class="fab fa-facebook-f"></i>
